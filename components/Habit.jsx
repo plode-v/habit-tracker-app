@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const MenuIcon = () => {
+const Habit = () => {
   return (
     <View>
-      <Text>MenuIcon</Text>
+      <Text>Habit</Text>
     </View>
   )
 }
 
-export default MenuIcon;
+export default Habit;
